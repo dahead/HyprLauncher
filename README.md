@@ -1,5 +1,7 @@
 Bash script, that uses alacritty, to display all applications found on the current linux system.
 
+![alt text](preview.png "Vorschau")
+
 The bash script calls the "Updater" C application which:
 * creates a app index file in ~/.appindex
 * which gets updates every 24h
